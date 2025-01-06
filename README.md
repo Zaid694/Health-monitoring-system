@@ -24,7 +24,8 @@ This project integrates sensors and microcontrollers to monitor key health param
 The collected data is transmitted to mobile devices via GSM/WiFi modules and stored on the cloud for continuous access. This helps doctors and family members stay informed about the patient’s condition remotely.
 
 ### High-Level System Design
-![System Design]![Uploading System_Design.png…]()
+![System Design]![System_Design](https://github.com/user-attachments/assets/466a5723-42c2-4a06-aab7-d6670dcdbdc5)
+
 
 
 ---
