@@ -57,7 +57,8 @@ Here’s a breakdown of the essential components used:
 ## 🔌 Circuit Overview
 
 The circuit integrates various components to achieve functionality:
-![Circuit Diagram](./Image/Circuit_Diagram.png)
+![Circuit Diagram]![Circuit_Diagram](https://github.com/user-attachments/assets/195dc579-47e9-415c-a5c1-9208a6718752)
+
 
 ---
 
